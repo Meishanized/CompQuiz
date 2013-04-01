@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CompQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <string name="imagebutton02">Take Quiz</string>
+	<string name="imagebutton01">Go to Web Site</string>
+	<string name="Version">Version 1.0</string>
+	
+	
+	
+</resources>
